@@ -4,8 +4,16 @@ test3.txtファイル
 かきくけこ
 設定
 
+<<<<<<< HEAD
+さしすせそ
+たちつてと
+=======
 
 ＡＢＣＤＥ
+<<<<<<< HEAD
 
 
 abcde
+=======
+>>>>>>> feature_branch_2
+>>>>>>> feature_branch_1
